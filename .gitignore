@@ -1,0 +1,156 @@
+/troz.net/*
+/Cows and Bulls/Cows and Bulls.xcodeproj/project.pbxproj
+/Cows and Bulls/Cows and Bulls.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/Cows and Bulls/Cows and Bulls.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/Cows and Bulls/Cows and Bulls.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/Cows and Bulls/Cows and Bulls.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/Cows and Bulls/Cows and Bulls/AppDelegate.swift
+/Cows and Bulls/Cows and Bulls/Assets.xcassets/AccentColor.colorset/Contents.json
+/Cows and Bulls/Cows and Bulls/Assets.xcassets/AppIcon.appiconset/Contents.json
+/Cows and Bulls/Cows and Bulls/Assets.xcassets/Contents.json
+/Cows and Bulls/Cows and Bulls/Base.lproj/Main.storyboard
+/Cows and Bulls/Cows and Bulls/ContentView.swift
+/Cows and Bulls/Cows and Bulls/Cows_and_Bulls.entitlements
+/Cows and Bulls/Cows and Bulls/Info.plist
+/Cows and Bulls/Cows and Bulls/Preview Content/Preview Assets.xcassets/Contents.json
+/LandmarkmacOS/charleyrivers_feature.jpg
+/LandmarkmacOS/charleyrivers.jpg
+/LandmarkmacOS/chilkoottrail.jpg
+/LandmarkmacOS/chincoteague.jpg
+/LandmarkmacOS/hiddenlake.jpg
+/LandmarkmacOS/hikeData.json
+/LandmarkmacOS/icybay.jpg
+/LandmarkmacOS/lakemcdonald.jpg
+/LandmarkmacOS/landmarkData.json
+/LandmarkmacOS/LandmarkmacOS.xcodeproj/project.pbxproj
+/LandmarkmacOS/LandmarkmacOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/LandmarkmacOS/LandmarkmacOS.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/LandmarkmacOS/LandmarkmacOS.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/LandmarkmacOS/LandmarkmacOS.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/LandmarkmacOS/LandmarkmacOS/AppDelegate.swift
+/LandmarkmacOS/LandmarkmacOS/Assets.xcassets/AppIcon.appiconset/Contents.json
+/LandmarkmacOS/LandmarkmacOS/Assets.xcassets/Contents.json
+/LandmarkmacOS/LandmarkmacOS/Assets.xcassets/star-empty.imageset/Contents.json
+/LandmarkmacOS/LandmarkmacOS/Assets.xcassets/star-empty.imageset/star-empty.pdf
+/LandmarkmacOS/LandmarkmacOS/Assets.xcassets/star-filled.imageset/Contents.json
+/LandmarkmacOS/LandmarkmacOS/Assets.xcassets/star-filled.imageset/star-filled.pdf
+/LandmarkmacOS/LandmarkmacOS/Base.lproj/Main.storyboard
+/LandmarkmacOS/LandmarkmacOS/ContentView.swift
+/LandmarkmacOS/LandmarkmacOS/Data.swift
+/LandmarkmacOS/LandmarkmacOS/Filter.swift
+/LandmarkmacOS/LandmarkmacOS/Hike.swift
+/LandmarkmacOS/LandmarkmacOS/Info.plist
+/LandmarkmacOS/LandmarkmacOS/Landmark.swift
+/LandmarkmacOS/LandmarkmacOS/LandmarkList.swift
+/LandmarkmacOS/LandmarkmacOS/LandmarkmacOS.entitlements
+/LandmarkmacOS/LandmarkmacOS/LandmarkRow.swift
+/LandmarkmacOS/LandmarkmacOS/Preview Content/Preview Assets.xcassets/Contents.json
+/LandmarkmacOS/LandmarkmacOS/Profile.swift
+/LandmarkmacOS/LandmarkmacOS/UserData.swift
+/LandmarkmacOS/rainbowlake.jpg
+/LandmarkmacOS/silversalmoncreek.jpg
+/LandmarkmacOS/stmarylake_feature.jpg
+/LandmarkmacOS/stmarylake.jpg
+/LandmarkmacOS/turtlerock_feature.jpg
+/LandmarkmacOS/turtlerock.jpg
+/LandmarkmacOS/twinlake.jpg
+/LandmarkmacOS/umbagog.jpg
+/List View/List View.xcodeproj/project.pbxproj
+/List View/List View.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/List View/List View.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/List View/List View.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/List View/List View.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+/List View/List View.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/List View/List View/AppDelegate.swift
+/List View/List View/Assets.xcassets/AccentColor.colorset/Contents.json
+/List View/List View/Assets.xcassets/AppIcon.appiconset/Contents.json
+/List View/List View/Assets.xcassets/Contents.json
+/List View/List View/Base.lproj/Main.storyboard
+/List View/List View/ContentView.swift
+/List View/List View/Info.plist
+/List View/List View/List_View.entitlements
+/List View/List View/Preview Content/Preview Assets.xcassets/Contents.json
+/MasteringSwiftUI/MasteringSwiftUI.xcodeproj/project.pbxproj
+/MasteringSwiftUI/MasteringSwiftUI.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/MasteringSwiftUI/MasteringSwiftUI.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/MasteringSwiftUI/MasteringSwiftUI.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/MasteringSwiftUI/MasteringSwiftUI.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/MasteringSwiftUI/MasteringSwiftUI/AppDelegate.swift
+/MasteringSwiftUI/MasteringSwiftUI/Assets.xcassets/AccentColor.colorset/Contents.json
+/MasteringSwiftUI/MasteringSwiftUI/Assets.xcassets/AppIcon.appiconset/Contents.json
+/MasteringSwiftUI/MasteringSwiftUI/Assets.xcassets/Contents.json
+/MasteringSwiftUI/MasteringSwiftUI/Assets.xcassets/Mee.Tb MacBook.imageset/Contents.json
+/MasteringSwiftUI/MasteringSwiftUI/Assets.xcassets/Mee.Tb MacBook.imageset/Mee.Tb MacBook.png
+/MasteringSwiftUI/MasteringSwiftUI/Base.lproj/Main.storyboard
+/MasteringSwiftUI/MasteringSwiftUI/ContentView.swift
+/MasteringSwiftUI/MasteringSwiftUI/Info.plist
+/MasteringSwiftUI/MasteringSwiftUI/MasteringSwiftUI.entitlements
+/MasteringSwiftUI/MasteringSwiftUI/Preview Content/Preview Assets.xcassets/Contents.json
+/PaintCode/PaintCode.xcodeproj/project.pbxproj
+/PaintCode/PaintCode.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/PaintCode/PaintCode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/PaintCode/PaintCode.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/PaintCode/PaintCode.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/PaintCode/PaintCode/AppDelegate.swift
+/PaintCode/PaintCode/Assets.xcassets/AppIcon.appiconset/Contents.json
+/PaintCode/PaintCode/Assets.xcassets/Contents.json
+/PaintCode/PaintCode/Base.lproj/Main.storyboard
+/PaintCode/PaintCode/ContentView.swift
+/PaintCode/PaintCode/Info.plist
+/PaintCode/PaintCode/PaintCode.entitlements
+/PaintCode/PaintCode/Preview Content/Preview Assets.xcassets/Contents.json
+/PaintCode/PaintCode/Xmas.pcvd
+/PaintCode/PaintCode/Xmas.swift
+/PurpleRain/PurpleRain.xcodeproj/project.pbxproj
+/PurpleRain/PurpleRain.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/PurpleRain/PurpleRain.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/PurpleRain/PurpleRain.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/PurpleRain/PurpleRain.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/PurpleRain/PurpleRain/Assets.xcassets/AccentColor.colorset/Contents.json
+/PurpleRain/PurpleRain/Assets.xcassets/AppIcon.appiconset/Contents.json
+/PurpleRain/PurpleRain/Assets.xcassets/Contents.json
+/PurpleRain/PurpleRain/ContentView.swift
+/PurpleRain/PurpleRain/Info.plist
+/PurpleRain/PurpleRain/Preview Content/Preview Assets.xcassets/Contents.json
+/PurpleRain/PurpleRain/PurpleRain.entitlements
+/PurpleRain/PurpleRain/PurpleRainApp.swift
+/troz.net/troz.net.xcodeproj/project.pbxproj
+/troz.net/troz.net.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/troz.net/troz.net.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/troz.net/troz.net.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/troz.net/troz.net.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/troz.net/troz.net/AppDelegate.swift
+/troz.net/troz.net/Assets.xcassets/AppIcon.appiconset/Contents.json
+/troz.net/troz.net/Assets.xcassets/Contents.json
+/troz.net/troz.net/Base.lproj/Main.storyboard
+/troz.net/troz.net/ContentView.swift
+/troz.net/troz.net/Info.plist
+/troz.net/troz.net/Preview Content/Preview Assets.xcassets/Contents.json
+/troz.net/troz.net/troz_net.entitlements
+/Wifi Hunter/Wifi Hunter.xcodeproj/project.pbxproj
+/Wifi Hunter/Wifi Hunter.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/Wifi Hunter/Wifi Hunter.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/Wifi Hunter/Wifi Hunter.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/Wifi Hunter/Wifi Hunter.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/Wifi Hunter/Wifi Hunter/Assets.xcassets/AccentColor.colorset/Contents.json
+/Wifi Hunter/Wifi Hunter/Assets.xcassets/AppIcon.appiconset/Contents.json
+/Wifi Hunter/Wifi Hunter/Assets.xcassets/Contents.json
+/Wifi Hunter/Wifi Hunter/ContentView.swift
+/Wifi Hunter/Wifi Hunter/Info.plist
+/Wifi Hunter/Wifi Hunter/Preview Content/Preview Assets.xcassets/Contents.json
+/Wifi Hunter/Wifi Hunter/SSID.swift
+/Wifi Hunter/Wifi Hunter/Wifi_Hunter.entitlements
+/Wifi Hunter/Wifi Hunter/Wifi_HunterApp.swift
+/SideMenu/SideMenu.xcodeproj/project.pbxproj
+/SideMenu/SideMenu.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/SideMenu/SideMenu.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/SideMenu/SideMenu.xcodeproj/project.xcworkspace/xcuserdata/szabolcs.xcuserdatad/UserInterfaceState.xcuserstate
+/SideMenu/SideMenu.xcodeproj/xcuserdata/szabolcs.xcuserdatad/xcschemes/xcschememanagement.plist
+/SideMenu/SideMenu/Assets.xcassets/AccentColor.colorset/Contents.json
+/SideMenu/SideMenu/Assets.xcassets/AppIcon.appiconset/Contents.json
+/SideMenu/SideMenu/Assets.xcassets/Contents.json
+/SideMenu/SideMenu/ContentView.swift
+/SideMenu/SideMenu/Info.plist
+/SideMenu/SideMenu/Preview Content/Preview Assets.xcassets/Contents.json
+/SideMenu/SideMenu/SideMenu.entitlements
+/SideMenu/SideMenu/SideMenuApp.swift
